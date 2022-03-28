@@ -22,8 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d86e391-7fdb-46d4-8134-fb662f014548" name="Default Changelist" comment="Add artem data">
+    <list default="true" id="7d86e391-7fdb-46d4-8134-fb662f014548" name="Default Changelist" comment="Add s data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Заказ пропусков_files/institut-matematiki-i-komputernyh-tehnologij-3-tihonov-ruslan-aleksandrovic-front.png" beforeDir="false" afterPath="$PROJECT_DIR$/Заказ пропусков_files/institut-matematiki-i-komputernyh-tehnologij-3-tihonov-ruslan-aleksandrovic-front.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644135322179</updated>
       <workItem from="1644135326172" duration="1445000" />
+      <workItem from="1648463735025" duration="636000" />
     </task>
     <task id="LOCAL-00003" summary="Add artem data">
       <created>1648030137338</created>
@@ -90,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648030137338</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add s data">
+      <created>1648463857574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648463857574</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +122,7 @@
     <MESSAGE value="Рабочая версия пропуска" />
     <MESSAGE value="-" />
     <MESSAGE value="Add artem data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add artem data" />
+    <MESSAGE value="Add s data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add s data" />
   </component>
 </project>
