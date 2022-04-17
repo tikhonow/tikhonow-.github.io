@@ -22,21 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d86e391-7fdb-46d4-8134-fb662f014548" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/btn-add-to-apple-wallet.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/btn-appstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/btn-googleplay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/icon-pass-received.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/icon-sm-dvfu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/img-logo-symbol.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/img-myuniver-logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/institut-matematiki-i-komputernyh-tehnologij-3-tihonov-ruslan-aleksandrovic-back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/institut-matematiki-i-komputernyh-tehnologij-3-tihonov-ruslan-aleksandrovic-front.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/notification.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/pass_frontend.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/style.css" afterDir="false" />
+    <list default="true" id="7d86e391-7fdb-46d4-8134-fb662f014548" name="Default Changelist" comment="Add user  data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +32,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="24jDtgD9BkvAgfJsMEujjtsBrVX" />
@@ -94,8 +82,30 @@
       <option name="presentableId" value="Default" />
       <updated>1644135322179</updated>
       <workItem from="1644135326172" duration="1445000" />
+      <workItem from="1648463735025" duration="9666000" />
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add artem data">
+      <created>1648030137338</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648030137338</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add s data">
+      <created>1648463857574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648463857574</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add user  data">
+      <created>1648470159028</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648470159028</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,16 +126,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Рабочая версия пропуска" />
     <MESSAGE value="-" />
-    <option name="LAST_COMMIT_MESSAGE" value="-" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1609288755325">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1609288755325" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609288855924">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609288855924" />
+    <MESSAGE value="Add artem data" />
+    <MESSAGE value="Add s data" />
+    <MESSAGE value="Add user  data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add user  data" />
   </component>
 </project>
