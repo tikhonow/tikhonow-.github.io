@@ -22,8 +22,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d86e391-7fdb-46d4-8134-fb662f014548" name="Default Changelist" comment="Add user  data">
+    <list default="true" id="7d86e391-7fdb-46d4-8134-fb662f014548" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/btn-add-to-apple-wallet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/btn-appstore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/btn-googleplay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/icon-pass-received.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/icon-sm-dvfu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/img-logo-symbol.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/img-myuniver-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/institut-matematiki-i-komputernyh-tehnologij-3-tihonov-ruslan-aleksandrovic-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/institut-matematiki-i-komputernyh-tehnologij-3-tihonov-ruslan-aleksandrovic-front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/notification.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/pass_frontend.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Заказ пропусков_files/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +45,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="24jDtgD9BkvAgfJsMEujjtsBrVX" />
@@ -48,6 +60,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -82,30 +95,9 @@
       <option name="presentableId" value="Default" />
       <updated>1644135322179</updated>
       <workItem from="1644135326172" duration="1445000" />
-      <workItem from="1648463735025" duration="9666000" />
+      <workItem from="1654004594916" duration="518000" />
     </task>
-    <task id="LOCAL-00003" summary="Add artem data">
-      <created>1648030137338</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1648030137338</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Add s data">
-      <created>1648463857574</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1648463857574</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Add user  data">
-      <created>1648470159028</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1648470159028</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,9 +118,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Рабочая версия пропуска" />
     <MESSAGE value="-" />
-    <MESSAGE value="Add artem data" />
-    <MESSAGE value="Add s data" />
-    <MESSAGE value="Add user  data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add user  data" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
 </project>
